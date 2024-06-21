@@ -88,11 +88,21 @@ This is a console application that simulates a parking system. It is written in 
     2
     ```
 
+### Prints Number Vehicles By Type
+
+  - Command
+    ```bash
+    type_of_vehicles Mobil
+    ```
+  - Output
+    ```bash
+    4
+    ```
 ### Prints Vehicles By Odd Plate
 
   - Command
     ```bash
-    registration_numbers_for_vehicles_with_odd_plate
+    registration_numbers_for_vehicles_with_ood_plate
     ```
   - Output
     ```bash
@@ -103,7 +113,7 @@ This is a console application that simulates a parking system. It is written in 
 
   - Command
     ```bash
-    registration_numbers_for_vehicles_with_even_plate
+    registration_numbers_for_vehicles_with_event_plate
     ```
   - Output
     ```bash
@@ -129,20 +139,29 @@ This is a console application that simulates a parking system. It is written in 
     ```
   - Output
     ```bash
-    1, 2, 3
+    1, 2, 4
     ```
 
 ### Prints Slot By Registration Number
 
   - Command
     ```bash
-    slot_number_for_registration_number B-1234-XYZ
+    slot_number_for_registration_number B-3141-ZZZ
     ```
   - Output
     ```bash
-    1
+    6
     ```
+### Prints Slot By Registration Number
 
+  - Command
+    ```bash
+    slot_number_for_registration_number Z-1111-AAA
+    ```
+  - Output
+    ```bash
+    Not found
+    ```
 
 ### Exit Command
   

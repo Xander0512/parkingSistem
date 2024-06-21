@@ -1,0 +1,14 @@
+C:\Users\alexh\Documents\Praking_Sistem\bin\Debug\net8.0\Praking_Sistem.exe
+C:\Users\alexh\Documents\Praking_Sistem\bin\Debug\net8.0\Praking_Sistem.deps.json
+C:\Users\alexh\Documents\Praking_Sistem\bin\Debug\net8.0\Praking_Sistem.runtimeconfig.json
+C:\Users\alexh\Documents\Praking_Sistem\bin\Debug\net8.0\Praking_Sistem.dll
+C:\Users\alexh\Documents\Praking_Sistem\bin\Debug\net8.0\Praking_Sistem.pdb
+C:\Users\alexh\Documents\Praking_Sistem\obj\Debug\net8.0\Praking_Sistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexh\Documents\Praking_Sistem\obj\Debug\net8.0\Praking_Sistem.AssemblyInfoInputs.cache
+C:\Users\alexh\Documents\Praking_Sistem\obj\Debug\net8.0\Praking_Sistem.AssemblyInfo.cs
+C:\Users\alexh\Documents\Praking_Sistem\obj\Debug\net8.0\Praking_Sistem.csproj.CoreCompileInputs.cache
+C:\Users\alexh\Documents\Praking_Sistem\obj\Debug\net8.0\Praking_Sistem.dll
+C:\Users\alexh\Documents\Praking_Sistem\obj\Debug\net8.0\refint\Praking_Sistem.dll
+C:\Users\alexh\Documents\Praking_Sistem\obj\Debug\net8.0\Praking_Sistem.pdb
+C:\Users\alexh\Documents\Praking_Sistem\obj\Debug\net8.0\Praking_Sistem.genruntimeconfig.cache
+C:\Users\alexh\Documents\Praking_Sistem\obj\Debug\net8.0\ref\Praking_Sistem.dll

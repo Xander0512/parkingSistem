@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexh\\Documents\\Praking_Sistem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B338C5B-1E9D-4262-A4B1-3FF2417AE6D1}|Praking_Sistem.csproj|c:\\users\\alexh\\documents\\praking_sistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B338C5B-1E9D-4262-A4B1-3FF2417AE6D1}|Praking_Sistem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B338C5B-1E9D-4262-A4B1-3FF2417AE6D1}|Praking_Sistem.csproj|c:\\users\\alexh\\documents\\praking_sistem\\praking_sistem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B338C5B-1E9D-4262-A4B1-3FF2417AE6D1}|Praking_Sistem.csproj|solutionrelative:praking_sistem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexh\\Videos\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Praking_Sistem.csproj",
+              "DocumentMoniker": "C:\\Users\\alexh\\Documents\\Praking_Sistem\\Praking_Sistem.csproj",
+              "RelativeDocumentMoniker": "Praking_Sistem.csproj",
+              "ToolTip": "C:\\Users\\alexh\\Documents\\Praking_Sistem\\Praking_Sistem.csproj",
+              "RelativeToolTip": "Praking_Sistem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T09:07:54.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Documents\\Praking_Sistem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alexh\\Documents\\Praking_Sistem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:55:02.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexh\\Videos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Videos\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\alexh\\Videos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\..\\Videos\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:10:15.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

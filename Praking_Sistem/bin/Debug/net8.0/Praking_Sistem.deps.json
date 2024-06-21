@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Praking_Sistem/1.0.0": {
+        "runtime": {
+          "Praking_Sistem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praking_Sistem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

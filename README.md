@@ -123,13 +123,12 @@ This is a console application that simulates a parking system. It is written in 
     ```
   - Output
     ```bash
-    Slot No.    Registration No    Colour    Type
-    1           B-1234-XYZ         Putih     Mobil
-    2           B-1235-XYZ         Putih     Motor
-    3           B-1236-XYZ         Putih     Mobil
-    4           B-1237-XYZ         Putih     Motor
-    5           B-1238-XYZ         Putih     Mobil
-    6           B-1239-XYZ         Putih     Motor
+    Slot No.    Registration No    Colour     Type
+    1           B-1234-XYZ          Putih     Mobil
+    2           B-9999-XYZ          Putih     Motor
+    3           D-0001-HIJ          Hitam     Mobil
+    5           B-2701-XXX          Biru      Mobil
+    6           B-3141-ZZZ          Hitam     Motor
     ```
     ### Park the vehicle with the registration number and color given after slot 4 is empty
 

@@ -38,7 +38,7 @@ This is a console application that simulates a parking system. It is written in 
     Created a parking lot with 6 slots
     ```
 
-### Parks a vehicle with the given registration number and color
+### Parks a vehicle with the given registration number and color 1
 
   - Command
     ```bash
@@ -48,7 +48,62 @@ This is a console application that simulates a parking system. It is written in 
     ```bash
     Allocated slot number: 1
     ```
+    
+### Parks a vehicle with the given registration number and color 2
 
+  - Command
+    ```bash
+    park B-9999-XYZ Putih Motor
+    ```
+  - Output
+    ```bash
+    Allocated slot number: 2
+    ```
+
+### Parks a vehicle with the given registration number and color 3
+
+  - Command
+    ```bash
+    park D-0001-HIJ Hitam Mobil
+    ```
+  - Output
+    ```bash
+    Allocated slot number: 3
+    ```
+    ### Parks a vehicle with the given registration number and color 4
+
+  - Command
+    ```bash
+    park B-7777-DEF Red Mobil
+    ```
+  - Output
+    ```bash
+    Allocated slot number: 4
+    ```
+
+    ### Parks a vehicle with the given registration number and color 5
+
+  - Command
+    ```bash
+    park B-2701-XXX Biru Mobil
+    ```
+  - Output
+    ```bash
+    Allocated slot number: 4
+    ```
+
+    ### Parks a vehicle with the given registration number and color 6
+
+  - Command
+    ```bash
+    $ park B-3141-ZZZ Hitam Motor
+    ```
+  - Output
+    ```bash
+    Allocated slot number: 6
+    ```
+
+    
 ### Removes vehicle from slot number 4
 
   - Command
@@ -76,6 +131,17 @@ This is a console application that simulates a parking system. It is written in 
     5           B-1238-XYZ         Putih     Mobil
     6           B-1239-XYZ         Putih     Motor
     ```
+    ### Park the vehicle with the registration number and color given after slot 4 is empty
+
+ - Command
+ ``` bash
+ park B-333-SSS Putih Mobil
+ ```
+ - Output
+ ``` bash
+ Allocated slot number: 4
+ ```
+
 
 ### Prints Number Vehicles By Type
 
